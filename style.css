@@ -1,0 +1,37 @@
+.heading{
+    font-size:35px;
+    width:100%;
+    box-shadow:5px 5px 5px rgb(250, 115, 65);
+    margin:0px;
+}
+.heading_div{
+    float:none;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    color:teal;
+    box-shadow:5px 5px 5px rgb(0, 65, 65);
+}
+.heading_objects{
+    font-size:20px;
+}
+.result_tag{
+    box-shadow:5px 5px 5px rgb(0, 255, 98);
+    font-size:25px;
+}
+.footer{
+background-color:grey;
+bottom:0;
+position:fixed;
+width:100%;
+text-align:center;
+font-size:25px;
+color:honeydew;
+line-height:3;
+}
+canvas{
+    border:5px dashed rgb(1, 6, 246);
+    border-radius:20px;
+    box-shadow:5px 5px 5px #00c5f6;
+    margin-top:170px;
+}
